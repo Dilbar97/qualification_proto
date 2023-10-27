@@ -7,6 +7,4 @@ service Stream {
   rpc Save3(Save3Request) returns (Save3Response); // simple RPC
 }
 
-message SaveRequest {
-
-}
+message SaveRequest {}
