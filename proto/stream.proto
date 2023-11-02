@@ -8,3 +8,5 @@ service Stream {
 }
 
 message SaveRequest {}
+
+message SaveResponse {}
